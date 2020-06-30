@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Vou ter muito sucesso na programação
 DIRECTORY=$1
 EXTENSION=$2
 
