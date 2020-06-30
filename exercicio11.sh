@@ -1,4 +1,5 @@
 #!/bin/bash
+# Eu sou tryber e vqv
 
 DIRECTORY=$1
 EXTENSION=$2
