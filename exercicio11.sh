@@ -1,5 +1,9 @@
 #!/bin/bash
-Vou ter muito sucesso na programação
+
+# Eu sou tryber e vqv
+
+=======
+
 DIRECTORY=$1
 EXTENSION=$2
 
